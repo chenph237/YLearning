@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MyShareView.extractItems(size:):MyShareView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DataModel.getJsonFilesFromJsonDir():YLFolder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonFilesURLArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in MyShareView.parsingVideoID(input:):MyShareView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "comp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyShareView.parsingVideoID(input:):MyShareView.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

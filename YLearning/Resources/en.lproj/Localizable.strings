@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  YLearning
+
+  Created by PADDY on 2024/5/13.
+  
+*/
+//"" = "Unknow";
+"Learning" = "Learning";
+"Library" = "Library";
+"Category" = "Category";
+"Photo" = "Photo";
+"Help" = "Help";
+
+"All" = "All";
+"Favoriate" = "Favoriate";
+"Search" = "Search";
+"Import" = "Import";
+
+"Language" = "Language";
+"Music" = "Music";
+"Sport" = "Sport";
+"Cook" = "Cooking";
+"Health" = "Health";
+
+"Show" = "Show photos";
+
+"Import Json file" = "Import Json file";
+
+"Import Video" = "Import Video";
+"Enter video information" = "Enter video information";
+"Video" = "Video";
+"Title" = "Title";
+"Tag" = "Tag";

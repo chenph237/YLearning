@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LanguageLearningView.tagClicked(info:):LanguageLearningView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataModel.tagArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataModel.parsingVideoID(input:):DatabaseDM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataModel.checkCreatedDate(video:):CategoryDM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "startDate">
+            </PersistentString>
+            <PersistentString
+               value = "video.CreatedDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SQLiteDatabase.queryVideoID(videoURL:):SQliteDB.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SQLiteStatement.queryVideoIDSql">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataModel.checkTagIsNew(tag:):FolderDM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "library">
+            </PersistentString>
+            <PersistentString
+               value = "tagArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailImportJsonView.sortedArray():DetailImportJsonView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static JsonFileInfo.&lt; infix(_:_:):JsonFileInfo.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lhs.url.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

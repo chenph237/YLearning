@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  YLearning
+
+  Created by PADDY on 2024/5/13.
+  
+*/
+//"" = "Unknow";
+"Learning" = "学习";
+"Library" = "影片库";
+"Category" = "类别";
+"Photo" = "相片";
+"Help" = "说明";
+
+"All" = "全部";
+"Favoriate" = "喜欢的视频";
+"Search" = "搜索";
+"Import" = "导入";
+
+"Language" = "语言";
+"Music" = "音乐";
+"Sport" = "运动";
+"Cook" = "烹饪";
+"Health" = "健康";
+
+"Show" = "放映";
+
+"Import Json file" = "導入Json文件";
+
+"Import Video" = "导入视频";
+"Enter video information" = "输入视频资讯";
+"Video" = "视频";
+"Title" = "标题";
+"Tag" = "标签";

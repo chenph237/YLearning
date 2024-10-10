@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  YLearning
+
+  Created by PADDY on 2024/5/13.
+  
+*/
+//"" = "Unknow";
+"Learning" = "學習";
+"Library" = "影片庫";
+"Category" = "類別";
+"Photo" = "照片";
+"Help" = "說明";
+
+"All" = "全部";
+"Favoriate" = "喜歡的視頻";
+"Search" = "搜尋";
+"Import" = "匯入";
+
+"Language" = "語言";
+"Music" = "音樂";
+"Sport" = "運動";
+"Cook" = "烹飪";
+"Health" = "健康";
+
+"Show" = "展示";
+
+"Import Json file" = "匯入Json文件";
+//
+//Share Extension
+//
+"Import Video" = "匯入视频";
+"Enter video information" = "輸入影片資訊";
+"Video" = "影片";
+"Title" = "標題";
+"Tag" = "標籤";
+
